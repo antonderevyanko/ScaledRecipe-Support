@@ -7,12 +7,12 @@ If found any problems using 'Scaled Recipe' feel free to contact me by email [An
 <table>
 <thead>
 <tr>
-<th><a href='https://play.google.com/store/apps/details?id=org.andronotes.recipe&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="44%" height="44%"/></a></th>
+<th><a href='https://play.google.com/store/apps/details?id=org.andronotes.recipe&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="40%" height="40%"/></a></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><a href='https://apps.apple.com/ua/app/scaled-recipe/id1510383271?l=uk'><img alt='Download on the Appstore' src='https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg' width="210%" height="210%"/></a></td>
+<td><a href='https://apps.apple.com/ua/app/scaled-recipe/id1510383271?l=uk'><img alt='Download on the Appstore' src='https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg' width="195%" height="195%"/></a></td>
 </tr>
 </tbody>
 </table>
